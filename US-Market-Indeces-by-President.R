@@ -16,8 +16,6 @@ library(data.table)
          DATA FUNCTIONS
 ======================================"
 
-setwd("/Users/sifael/Desktop/Programming/Apps/USPresidentsvsStockMarket/R")
-
 # UNIQUE PRESIDENTS
 get_presidents = function( data_df )
 {
